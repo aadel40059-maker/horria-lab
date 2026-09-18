@@ -1,0 +1,5 @@
+{
+  "credentials_path": "C:\\path\\to\\your\\service_account.json",
+  "sheet_id": "PASTE_GOOGLE_SHEET_ID_HERE",
+  "worksheet_name": "بيانات"
+}

@@ -1,0 +1,13 @@
+# متسبش الملفات دي تترفع على GitHub - فيها بيانات حساسة
+.streamlit/secrets.toml
+config.json
+*.json
+!config.example.json
+
+# ملفات بايثون التلقائية
+__pycache__/
+*.pyc
+
+# ملفات نظام التشغيل
+.DS_Store
+Thumbs.db

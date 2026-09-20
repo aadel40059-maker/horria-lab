@@ -1,0 +1,7 @@
+streamlit>=1.35.0
+gspread>=6.0.0
+google-auth>=2.29.0
+reportlab>=4.1.0
+arabic-reshaper>=3.0.0
+python-bidi>=0.4.2
+plotly>=5.20.0
